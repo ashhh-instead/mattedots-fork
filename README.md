@@ -1,9 +1,7 @@
-#       Hyprland - ifunx - Dotfiles
-- For ifunx Hyprland(future distro)
-- iFunction + Linux
+# ifunx - Dotfiles
 
 ### Hyprland Demo:
 not here yet cuz i forgot to upload
 
-### This is my windows setup (i use arch btw)
+### 🪟Desktop
 <img src="windowsHyprland">
