@@ -1,5 +1,6 @@
 <div align="center">
     <h1>[ matte - Hyprland Dotfiles ]</h1>
+    <p1>matte-finished dotfiles</p1>
 </div>
 
 # Installation
