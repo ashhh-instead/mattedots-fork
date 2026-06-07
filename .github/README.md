@@ -4,6 +4,8 @@
   
 ![Static Badge](https://img.shields.io/badge/Hyprland-demo-blue?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
+<img src="hyprlanddemo.png">
+
 ### ![Static Badge](https://img.shields.io/badge/🪟Windows-demo-blue?style=for-the-badge&logo=Window&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
 <img src="winDemo">
